@@ -5,8 +5,8 @@
 ##### An example of a real world application would be for a garage, when having to park a car in a tight space.  
 ---
 
-Required Materials:
+    Required Materials:
 
-  (1) Arduino Uno  
-  (1) Ultrasound Sensor  
-  (1) RGB LED variant
+    (1) Arduino Uno  
+    (1) Ultrasound Sensor  
+    (1) RGB LED variant
