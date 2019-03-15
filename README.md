@@ -7,8 +7,6 @@
 
 Required Materials:
 
-  (1) Arduino Uno
-  
-  (1) Ultrasound Sensor
-  
+  (1) Arduino Uno  
+  (1) Ultrasound Sensor  
   (1) RGB LED variant
