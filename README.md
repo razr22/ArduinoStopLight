@@ -8,5 +8,7 @@ Example of a real world application would be for a garage, when having to park a
 Required Materials:
 
   (1) Arduino Uno
+  
   (1) UltraSound Sensor
+  
   (1) RGB LED variant
