@@ -1,1 +1,7 @@
 language: c
+sudo: false
+
+notifications:
+  email:
+    on_success: false
+    on_failure: false
